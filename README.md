@@ -1,1 +1,1 @@
-echo "Project Jam Day 8. "
+ Project Jam, Hari ke 8 :)
